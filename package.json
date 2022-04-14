@@ -1,5 +1,6 @@
 {
-  "name": "frstproj",
+  "name": "calculator",
+  "homepage": "http://vanya517.github.io/Calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
