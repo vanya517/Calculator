@@ -30,9 +30,12 @@ const App = () => {
     
     return (
         <>
+        
            <div className="container">
+           
                <form>
                    <input type="text" value={result}></input>
+                  
                </form>
 
                <div className="keypad">
